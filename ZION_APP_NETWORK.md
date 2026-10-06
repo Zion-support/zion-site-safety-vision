@@ -1,8 +1,8 @@
 # 🌐 Zion AI App Network — Interlinks
 
-**zion-site-safety-vision** is part of **Batch 96 — Real Estate & Construction AI** (Oct 6, 2026). All apps are free & open-source.
+**zion-site-safety-vision** is part of **Batch 99 — Construction & PropTech AI** (Oct 6, 2026). All apps are free & open-source.
 
-## Batch 96 (full mesh)
+## Batch 99 (full mesh)
 - [Property Valuation AI](https://github.com/Zion-support/zion-property-valuation-ai)
 - [Construction Bid Estimator](https://github.com/Zion-support/zion-construction-bid-estimator)
 - **Site Safety Vision** (this repo)
@@ -18,7 +18,7 @@
 
 ## Network
 - Hub: [Zion-support/zion-app-network](https://github.com/Zion-support/zion-app-network)
-- Network home: https://ziontechgroup.com/zion-app-network/
+- Showcase: https://ziontechgroup.com/apps/october-2026-batch18.html
 - All apps: https://ziontechgroup.com/apps/
 - 🎯 Free AI Discovery (always online, always free — results emailed instantly to you and commercial@ziontechgroup.com): https://ziontechgroup.com/discovery/
 
